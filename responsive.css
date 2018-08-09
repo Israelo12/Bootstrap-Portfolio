@@ -1,0 +1,14 @@
+div.one-third {
+	width: 47.5%;
+}
+div.one-second {
+	width: 0;
+}
+div.one-last {
+	clear: both;
+	float : none;
+	width: auto;
+	padding: 20px 0 0 0;
+}
+
+@media screen and (max-width: 500px)
